@@ -67,7 +67,6 @@ dependencies:
     - cffi==1.12.3
     - chardet==3.0.4
     - cycler==0.10.0
-    - fix-yahoo-finance==0.1.37
     - gast==0.2.2
     - grpcio==1.21.1
     - h5py==2.9.0
