@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *.csv
+!mdax.csv
 *.pkl*
 # C extensions
 *.so

@@ -1,7 +1,6 @@
-Binder Link
-https://mybinder.org/v2/gh/Geraldf/Stocks.git/master
+# Notebook Binder sample
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Geraldf/Stocks.git/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
-:target: https://mybinder.org/v2/gh/Geraldf/Stocks.git/master
+ fsdfs
+
